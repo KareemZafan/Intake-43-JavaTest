@@ -6,7 +6,7 @@ public class Main {
         System.out.println( "Hello Intake-43" );
 
         // list of students' namess
-        List<String> names = new ArrayList<>( List.of( "Kareem", "Fouda", "Nader", "Raghda" ,"Kirolos","Ahmed Arthur", "Abdullah" ) );
+        List<String> names = new ArrayList<>( List.of( "Kareem", "Fouda", "Nader", "Raghda" ,"Kirolos","Ahmed Arthur", "Abdullah", "Nada" ) );
         for (String name : names) {
             System.out.println( name );
         }
